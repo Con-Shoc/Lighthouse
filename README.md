@@ -31,7 +31,7 @@ Requirements to Run
 - Lighthouse Node Module
 - Text Editor
 
-## Installing GitBash &amp; Using Command-Line Interface (CLI)1
+## Installing GitBash &amp; Using Command-Line Interface (CLI)
 
 To make running this simple script as painless as possible, it is recommended to install a CLI that takes advantage of Unix based commands vs. Windows. You can run this program using the basic Command Prompt that comes with Windows, but it is a lot easier to use a different Shell.
 
