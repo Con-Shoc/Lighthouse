@@ -14,14 +14,13 @@ Lighthouse can be run via your web browser by simply navigating to Inspector 
 
 **Initial Test Results**
 
-- **Site Tested:** [https://www.pulte.com](https://www.pulte.com)
-- **Average Page Speed:** Slow to Medium
+- **Average Speed of Tested site:** Slow to Medium
 - **Time Taken to Manually Audit 10 Pages via Browser:** 30 Minutes
 - **Time Taken via Batch Solution:** 8 Minutes
 - **Total Time Savings:** 24 Minutes
 - **Percent of Improvement:** 74%
 
-Running a test on Pulte&#39;s website proved that this solution will save you a drastic amount of time. As Pulte&#39;s site is slow it takes a while to manually navigate to each page, enter the inspector and setup your audit. Whereas, the Lighthouse batch solution showed **time improvements of ~74%.** As this solution can also provide exports in HTML, JSON and CSV it also saves time on the latter end of data analysis/consumption.
+Running a test on a slow website proved that this solution will save you a drastic amount of time. As the site is slow it takes a while to manually navigate to each page, enter the inspector and setup your audit. Whereas, the Lighthouse batch solution showed **time improvements of ~74%.** As this solution can also provide exports in HTML, JSON and CSV it also saves time on the latter end of data analysis/consumption.
 
 Requirements to Run
 
